@@ -1,2 +1,1 @@
-# ALX
-I AM NOW AN ALX STUDENT
+My first readme
